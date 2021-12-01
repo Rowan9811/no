@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+CRC: 74426282
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 57ecd2ebf107d961435fb1b88247312b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 17b0432ccdf10bd7639a88755b8db345
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fdba2c2071170e643afd92a9232b8a10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a5db2b728eeba248a65dd98dd143484, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 469a9519ae31ebd40a77b8bf1b7ae0d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 62496f0a55a88914c8e3df731cc5b148, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c480f5a8db151044829e6545264e949, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f4dca6a6ccea3e419644f1f87b2ab56, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4887129cb48e25441aa840c2b222ce40, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8bd5e31f6942cd34eb338b446c9b1d1d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 138
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+Assets:
+- Assets/no.unity
+Dependencies: []
